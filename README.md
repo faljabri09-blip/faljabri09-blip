@@ -24,6 +24,8 @@ Web Development:
 
 
 📫 How to reach me: 
+
  Email: faljabri09@gmail.com
+ 
  LinkedIn: LinkedIn: linkedin.com/in/fatma-al-jabri-618a77181
 
