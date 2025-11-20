@@ -27,5 +27,5 @@ Web Development:
 
  Email: faljabri09@gmail.com
  
- LinkedIn: LinkedIn: linkedin.com/in/fatma-al-jabri-618a77181
+ LinkedIn:linkedin.com/in/fatma-al-jabri-618a77181
 
