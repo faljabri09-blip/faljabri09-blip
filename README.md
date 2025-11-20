@@ -4,7 +4,7 @@ Hi there, I'm Fatma Saif Ahmed aLJabri 👋
 
 <img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/472f3314-02d4-490e-8d42-e601221cbbbd" /> University: University of Technology and Applied Sciences
 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/c1f99968-7fe7-4938-a11e-3daad4f330ea" /> Graduation Year: 2019  
+Graduation Year: 2019  
 
 Here are some ideas to get you started:
 
