@@ -26,7 +26,7 @@ I aspire to become a programmer in the future.engineering.Technical Skills Progr
 
 Web Development:
 - Frontend: HTML, CSS, JavaScript
-- Backend: [e.g., ASP.NET Core]
+- Backend: [e.g., ASP.NET Core , C#]
 - Database: SQL Server
 
 <img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/67bc3be2-e42f-42a6-b8ba-1460783e6572" />   
