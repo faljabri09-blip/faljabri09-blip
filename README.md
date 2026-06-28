@@ -17,7 +17,7 @@ University: University of Technology and Applied Sciences
 
 
 💬 About Me
-I have a database degree and am passionate about technology and software development. I look forward to applying my knowledge to real-world projects. I am actively learning and developing my skills in web development and software engineering. I joined Code Lane, a subsidiary of Rahal, as a assistant instructor. 
+I have a database degree and am passionate about technology and software development. I look forward to applying my knowledge to real-world projects. I am actively learning and developing my skills in web development and software engineering. I joined Codeline, a subsidiary of Rahal, as a assistant instructor. 
 
 
 <img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/5533faf3-6c16-40d6-85a6-76e2d1b1f9e5" /> 
