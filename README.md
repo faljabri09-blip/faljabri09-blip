@@ -1,45 +1,61 @@
-Hi there, I'm Fatma Saif Ahmed aLJabri 👋
+Hi there, I'm Fatma Saif Ahmed Aljabri 👋
 
-<img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/bbdbb5ef-049a-420d-9ee4-ba5ef1d49a33" /> 
+🎓 Bachelor’s Degree in Database
+🏫 University of Technology and Applied Sciences
+📅 Graduated in 2019
 
-Education : Bachelor's in Database  
+👩‍💻 About Me
 
-Graduation Year: 2019  
+I am a Database graduate with a strong interest in technology, software development, and continuous learning.
 
-<img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/472f3314-02d4-490e-8d42-e601221cbbbd" /> 
+Currently, I work at Codeline Company as an Assistant Instructor, where I support trainees and contribute to building practical technical skills.
 
-University: University of Technology and Applied Sciences
+I enjoy expanding my knowledge in Web Development and Software Engineering
 
+🌱 Currently improving my skills in:
 
+ASP.NET Core
+C# Development
+SQL Server
+Git & GitHub
+Software Engineering Principles
 
+🎯 Career Goal:
+To grow as a Software Developer and build impactful software solutions.
 
-🔭 I’m currently working on Coodline company
+🛠️ Tech Stack
+Languages
 
+C# Java C++ JavaScript HTML
 
-💬 About Me
-I have a database degree and am passionate about technology and software development. I look forward to applying my knowledge to real-world projects. I am actively learning and developing my skills in web development and software engineering. I joined Codeline, a subsidiary of Rahal, as a assistant instructor. 
+Web Development
 
+Frontend
 
-<img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/5533faf3-6c16-40d6-85a6-76e2d1b1f9e5" /> 
+HTML
+CSS
+JavaScript
 
-I aspire to become a programmer in the future.engineering.Technical Skills Programming Languages [ C#, Java , C++, JavaScript,HTML]
+Backend
 
-Web Development:
-- Frontend: HTML, CSS, JavaScript
-- Backend: [e.g., ASP.NET Core , C#]
-- Database: SQL Server
+ASP.NET Core
+C#
+Database
+SQL Server
+Tools
+Git
+GitHub
+Visual Studio
+VS Code
+📌 Current Focus
+Building projects to strengthen programming skills
+Learning modern development practices
+Expanding backend development knowledge
+📫 Connect with Me
 
-<img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/67bc3be2-e42f-42a6-b8ba-1460783e6572" />   
+📧 Email: faljabri09@gmail.com
 
-Other:    
-  Version Control: Git, GitHub
-  IDEs: Visual Studio, VS Code
-  
+💼 LinkedIn:
+linkedin.com/in/fatma-al-jabri-618a77181
 
-
-📫 How to reach me: 
-
- Email: faljabri09@gmail.com
- 
- LinkedIn:linkedin.com/in/fatma-al-jabri-618a77181
-
+⭐ Thank you for visiting my profile!
