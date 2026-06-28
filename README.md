@@ -1,7 +1,11 @@
 Hi there, I'm Fatma Saif Ahmed Aljabri 👋
 
 🎓 Bachelor’s Degree in Database
+
+
 🏫 University of Technology and Applied Sciences
+
+
 📅 Graduated in 2019
 
 👩‍💻 About Me
@@ -10,7 +14,9 @@ I am a Database graduate with a strong interest in technology, software developm
 
 Currently, I work at Codeline Company as an Assistant Instructor, where I support trainees and contribute to building practical technical skills.
 
-I enjoy expanding my knowledge in Web Development and Software Engineering
+I enjoy expanding my knowledge in Web Development and Software Engineering.
+
+
 
 🌱 Currently improving my skills in:
 
@@ -20,8 +26,12 @@ SQL Server
 Git & GitHub
 Software Engineering Principles
 
+
+
 🎯 Career Goal:
 To grow as a Software Developer and build impactful software solutions.
+
+
 
 🛠️ Tech Stack
 Languages
@@ -47,6 +57,8 @@ Git
 GitHub
 Visual Studio
 VS Code
+
+
 📌 Current Focus
 Building projects to strengthen programming skills
 Learning modern development practices
@@ -56,6 +68,6 @@ Expanding backend development knowledge
 📧 Email: faljabri09@gmail.com
 
 💼 LinkedIn:
-linkedin.com/in/fatma-al-jabri-618a77181
+linkedin.com/in/fatma-aljabri-618a77181
 
 ⭐ Thank you for visiting my profile!
